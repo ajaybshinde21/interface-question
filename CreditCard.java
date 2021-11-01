@@ -1,4 +1,3 @@
-
 public interface CreditCard {
-	void payment(double amount);
+  void payment(double amount);
 }
